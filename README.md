@@ -100,19 +100,13 @@ This means only my PC is currently using Pi-hole, rather than changing DNS for t
 
 ## Screenshot: Pi-hole Dashboard
 
-Add your screenshot here:
+<img width="1250" height="966" alt="pihole-dashboard" src="https://github.com/user-attachments/assets/d6b77aa5-7c1a-49c8-a81f-ea1d4b3a298e" />
 
-```md
-![Pi-hole Dashboard](screenshots/pihole/pihole-dashboard.png)
-```
 
 ## Screenshot: Pi-hole Query Log
 
-Add your screenshot here:
+<img width="1258" height="929" alt="pihole-query-log" src="https://github.com/user-attachments/assets/9ad008ed-4a3e-4d66-be55-6d8babc3c27a" />
 
-```md
-![Pi-hole Query Log](screenshots/pihole/pihole-query-log.png)
-```
 
 ## Security Hardening
 
@@ -141,9 +135,8 @@ sudo fail2ban-client status sshd
 
 Add your screenshot here:
 
-```md
-![Fail2Ban SSH Status](screenshots/terminal/fail2ban-sshd-status.png)
-```
+<img width="1621" height="233" alt="fail2ban-sshd-status" src="https://github.com/user-attachments/assets/89da34c4-db85-4223-9538-04489de5ef16" />
+
 
 ## Monitoring
 
@@ -171,11 +164,8 @@ scrape_configs:
 
 ## Screenshot: Prometheus Targets
 
-Add your screenshot here:
+<img width="1911" height="728" alt="prometheus-targets" src="https://github.com/user-attachments/assets/adb9bd0c-2576-4395-8bd5-a079972a6555" />
 
-```md
-![Prometheus Targets](screenshots/prometheus/prometheus-targets.png)
-```
 
 ## Grafana Dashboards
 
@@ -187,19 +177,14 @@ The second dashboard uses Node Exporter to monitor the Raspberry Pi itself, incl
 
 ## Screenshot: Grafana Pi-hole Dashboard
 
-Add your screenshot here:
 
-```md
-![Grafana Pi-hole Dashboard](screenshots/grafana/pihole-monitoring-dashboard.png)
-```
+<img width="1616" height="789" alt="pihole-monitoring-dashboard" src="https://github.com/user-attachments/assets/c5f413a3-7716-4607-bb9b-1f6563994889" />
+
 
 ## Screenshot: Node Exporter Dashboard
 
-Add your screenshot here:
+<img width="1597" height="920" alt="node-exporter-dashboard" src="https://github.com/user-attachments/assets/46a40488-6545-45db-b574-fd3b889337d9" />
 
-```md
-![Node Exporter Dashboard](screenshots/grafana/node-exporter-dashboard.png)
-```
 
 ## Useful Commands
 
