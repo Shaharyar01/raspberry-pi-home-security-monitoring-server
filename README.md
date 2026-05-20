@@ -133,7 +133,6 @@ sudo fail2ban-client status sshd
 
 ## Screenshot: Fail2Ban SSH Status
 
-Add your screenshot here:
 
 <img width="1621" height="233" alt="fail2ban-sshd-status" src="https://github.com/user-attachments/assets/89da34c4-db85-4223-9538-04489de5ef16" />
 
