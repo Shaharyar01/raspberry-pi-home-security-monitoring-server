@@ -100,7 +100,8 @@ This means only my PC is currently using Pi-hole, rather than changing DNS for t
 
 ## Screenshot: Pi-hole Dashboard
 
-<img width="1250" height="966" alt="pihole-dashboard" src="https://github.com/user-attachments/assets/d6b77aa5-7c1a-49c8-a81f-ea1d4b3a298e" />
+<img width="1250" height="931" alt="image" src="https://github.com/user-attachments/assets/ae57a348-9574-4b4a-8446-50c490baf597" />
+
 
 
 ## Screenshot: Pi-hole Query Log
