@@ -231,7 +231,3 @@ It also gave me a better understanding of how monitoring tools fit together in a
 - Add Grafana alerts for downtime or high resource usage
 - Create an automated Pi-hole backup script
 - Add a basic maintenance script for updates and health checks
-
-## CV Summary
-
-Built and documented a Raspberry Pi-based home security and monitoring server using Pi-hole, Fail2Ban, Prometheus, Grafana, Node Exporter, Docker, and a Pi-hole Exporter. Configured DNS-level filtering, SSH brute-force protection, metrics collection, and dashboard visualisation to improve home network visibility and security.
